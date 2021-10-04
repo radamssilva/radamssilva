@@ -6,6 +6,8 @@ Sou Radams Silva, engenheiro de software e trabalho com tecnologia desde 2010, a
 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas pelo IFPB - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (2011), Cajazeiras, Pós-Graduado em Engenharia de Software pela FA7 - Faculdade 7 de Setembro (2016), Fortaleza e Mestrado em Engenharia de Software pelo CESAR School (2019), Recife.
 - 🌱 Aprendendo mais sobre Go e Cloud
+- :family_man_woman_boy_boy: Pai dos gêmeos (Gustavo e Gabriel)
+- :bike: Ciclista 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
